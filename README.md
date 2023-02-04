@@ -15,6 +15,7 @@ Note: _**last updated january 2023 configured project to latest flutter version 
 <p align="center">
 <img src="assets/Readme (1).jpg" width="200%">
 </p>
+
 **Packages used:**
 
  - flutter_screenutil: ^5.6.0
