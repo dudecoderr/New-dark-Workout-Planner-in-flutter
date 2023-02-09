@@ -13,7 +13,7 @@ Note: _**last updated january 2023 configured project to latest flutter version 
 
 
 <p align="center">
-<img src="assets/Readme (1).jpg" width="200%">
+<img src="https://raw.githubusercontent.com/dudecoderr/New-dark-Workout-Planner-in-flutter/main/assets/Readme%20(1).jpg" width="200%">
 </p>
 
 **Packages used:**
